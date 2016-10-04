@@ -1,4 +1,4 @@
 # Robotics
 Code for the FIRST Robotics competition
 
-Currently the code is there, but not organized. Halvor isn't very good at this.
+It isn't organised very well, but src/edu/wpi/first/wpilibj/templates seems like a good place to look for things.
